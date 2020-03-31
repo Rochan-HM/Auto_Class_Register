@@ -9,6 +9,6 @@ P.S: Your credentials are safe! They are not being sent anywhere! The script run
 
 # Usage
 1. Download the executable and the provided two images and put them in a folder.
-2. Run the executable
+2. Run the executable around 5 minutes before your registration time.
 
 Enjoy!
