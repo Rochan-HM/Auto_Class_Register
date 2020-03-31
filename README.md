@@ -2,8 +2,8 @@
 A script to automatically register you to your classes!
 
 # Note
-1. Only works on Windows for now
-2. Needs Google Chrome
+1. Only works on Windows PCs with 4K or 1080P resolution.
+2. Requires Google Chrome
 
 P.S: Your credentials are safe! They are not being sent anywhere! The script runs locally :)))
 
